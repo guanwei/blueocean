@@ -10,6 +10,6 @@ node {
 
     stage "Finish"
      sleep 1
-     echo "Peace out"
+     echo "Peace out again"
 
 }
