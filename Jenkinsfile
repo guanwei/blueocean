@@ -20,6 +20,10 @@ pipeline {
           "Smoke Tests": {
             echo 'Where There is Smoke there is Fire!!!'
             
+          },
+          "where am i": {
+            echo 'hello i am here'
+            
           }
         )
       }
